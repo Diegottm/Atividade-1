@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    margin-top: 10px;
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+div,input,p{
+    text-align: center;
+}
